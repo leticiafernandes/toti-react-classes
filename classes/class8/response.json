@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "text": "Hoje está chovendo!",
+      "username": "leticia",
+      "id": 1
+    },
+    {
+      "text": "Meu deus! Que fome!",
+      "username": "nero",
+      "id": 2
+    },
+    {
+      "text": "Estou pensando em correr este final de semana...",
+      "username": "luna",
+      "id": 3
+    }
+  ]
+}
